@@ -1,2 +1,2 @@
 # git-webinar-test-reporitory
-Playground
+Spielplatz um git/github im Webinar zu testen
